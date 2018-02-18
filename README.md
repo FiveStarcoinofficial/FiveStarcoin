@@ -1,4 +1,4 @@
-FiveStarcoin is a hybrid PoS cryptocurrency.
+FiveStarcoin is a pure PoS cryptocurrency.
 ---------------------------------------------
 
 Mainnet:
